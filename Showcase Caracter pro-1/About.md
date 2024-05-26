@@ -2,7 +2,7 @@
 
 HTML Structure: The project is built using semantic HTML5 markup, ensuring clarity and accessibility. Each section of the character showcase is appropriately structured for easy navigation and understanding.
 
-CSS Styling: CSS styles have been applied to enhance the visual presentation of the character showcase. This includes styling for layout, typography, colors, and interactive elements.
+CSS Styling: CSS styles have been applied to enhance the visual presentation of the character showcase. This includes styling for layout, display, colors, and interactive elements.
 
 **Features**
 Character Overview: Provides an introduction to the fictional character, including their name, background, and key traits.
